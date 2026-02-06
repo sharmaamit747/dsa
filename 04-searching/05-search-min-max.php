@@ -9,4 +9,4 @@ for ($i = 0; $i < 10; $i++) {
         $max = $arr[$i];
     }
 }
-echo $min . '-' . $max;
+echo $min . '-' . $max; 

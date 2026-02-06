@@ -5,7 +5,7 @@ Why patterns?
 - Understand boundary conditions
 - Build base for arrays & matrices
 
-Interview Focus:
+Focus:
 - Loop dependency
 - Index-based logic
 - Time & space complexity explanation
